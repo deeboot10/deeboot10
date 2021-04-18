@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deeboot10
 - 👀 I’m interested in learning front-end Web-Development
-- 🌱 I’m currently learning CSS Grid
+- 🌱 I’m currently learning Firebase
 - 💞️ I’m not looking to collaborate yet as I am a complete noob
 - 📫 How to reach me: @krupnikovicuros (instagram)
 
