@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deeboot10
 - 👀 I’m interested in learning front-end Web-Development
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning React
 - 📫 How to reach me: @krupnikovicuros (instagram)
 
 <!---
