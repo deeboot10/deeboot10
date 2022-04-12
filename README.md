@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deeboot10
-- 👀 I’m interested in learning front-end Web-Development
-- 🌱 I’m currently learning React
-- 📫 How to reach me: @krupnikovicuros (instagram)
+- 👀 I’m interested in FrontEnd Web Development
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: @krupnikovicuros (telegram, instagram)
 
 <!---
 deeboot10/deeboot10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
